@@ -1,6 +1,7 @@
-﻿st1修改一行
-再新增一行
+st1修改一行
+再新增一行;st2修改第二行，之后add，commit，pull，push；
 st2新增，st1已经push了
 测试下冲突
 st2新增了b并push了，
 先修改st1不add commit，直接pull试试.st1再修改第六行.
+
