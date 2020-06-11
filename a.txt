@@ -1,3 +1,5 @@
 ﻿st1修改一行
 再新增一行
 测试下冲突
+st2新增了b并push了，
+先修改st1不add commit，直接pull试试。
