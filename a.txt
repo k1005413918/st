@@ -1,4 +1,4 @@
-﻿st1修改一行
-再新增一行
+st1修改一行
+再新增一行;st2修改第二行，之后add，commit，pull，push；
 st2新增，st1已经push了
 测试下冲突
